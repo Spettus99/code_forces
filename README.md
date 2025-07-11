@@ -4,9 +4,9 @@ This repository contains my solutions to various competitive programming problem
 
 ## 📊 Progress
 
-- **Total Problems Solved**: [Update this number]
+- **Total Problems Solved**: [5]
 - **Current Rating**: [Your current rating]
-- **Handle**: [Your Codeforces handle]
+- **Handle**: [sam-pettus]
 
 ## 🗂️ Repository Structure
 
