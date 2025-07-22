@@ -11,9 +11,8 @@ This repository contains my solutions to various competitive programming problem
 ## 🗂️ Repository Structure
 
 ```
-├── {problem-name}/
-│   ├── {custom-name}.cpp
-├── {problem-name}/
+├── problems/
+│   ├── {problem-name}.cpp
 │   ├── {custom-name}.cpp
 ```
 
